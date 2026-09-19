@@ -1,4 +1,8 @@
-# Energy Waste Analyzer for Labs
+# Energy Waste Analyzer
+
+## 🚀 Live Demo
+
+[Open the Energy Waste Analyzer](https://energywasteanalyzer-wuvvtj95rymoecqmuglsrz.streamlit.app/)# Energy Waste Analyzer for Labs
 
 A Streamlit-based web application that analyzes electricity usage in laboratory equipment and helps identify energy waste through interactive charts and cost analysis.
 
